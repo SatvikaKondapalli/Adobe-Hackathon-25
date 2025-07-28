@@ -1,0 +1,5 @@
+{
+  "documents": ["file02.pdf", "file03.pdf", "test_cities_guide.pdf"],
+  "persona": "PhD Researcher in Software Testing and Quality Assurance",
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on testing methodologies, frameworks, and best practices for software quality assurance"
+}

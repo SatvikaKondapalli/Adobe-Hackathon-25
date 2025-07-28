@@ -1,0 +1,5 @@
+{
+  "documents": ["file02.pdf", "test_cities_guide.pdf"],
+  "persona": "Undergraduate Computer Science Student preparing for software engineering courses",
+  "job_to_be_done": "Identify key concepts, methodologies, and important topics for exam preparation and project work in software testing and quality assurance"
+}

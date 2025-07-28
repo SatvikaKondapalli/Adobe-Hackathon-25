@@ -1,0 +1,5 @@
+{
+  "documents": ["file02.pdf", "file03.pdf"],
+  "persona": "PhD Researcher in Computer Science and Software Engineering",
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on software testing methodologies, quality assurance frameworks, and performance benchmarks for academic publication"
+}

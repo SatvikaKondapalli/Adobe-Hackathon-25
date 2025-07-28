@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "persona": "Software Engineer",
+    "job_requirements": "Python development, API design",
+    "total_documents": 3,
+    "processing_time": "0.19s"
+  },
+  "extracted_sections": [
+    {
+      "document": "tech_guide.pdf",
+      "section": "Python Best Practices",
+      "relevance_score": 0.95,
+      "page": 15
+    }
+  ],
+  "sub_section_analysis": {
+    "high_relevance": 1,
+    "medium_relevance": 0,
+    "low_relevance": 0
+  }
+}

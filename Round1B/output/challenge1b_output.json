@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "input_documents": [
+      "file02.pdf",
+      "file03.pdf",
+      "test_cities_guide.pdf"
+    ],
+    "persona": "PhD Researcher in Software Testing and Quality Assurance",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on testing methodologies, frameworks, and best practices for software quality assurance",
+    "processing_timestamp": "2025-07-28T17:51:03.048652"
+  },
+  "extracted_sections": [
+    {
+      "document": "file02.pdf",
+      "page_number": 4,
+      "section_title": "This document was produced by a team from the International Software Testing Qualifications Board",
+      "importance_rank": 1
+    },
+    {
+      "document": "file03.pdf",
+      "page_number": 2,
+      "section_title": "March 2003",
+      "importance_rank": 2
+    },
+    {
+      "document": "file02.pdf",
+      "page_number": 6,
+      "section_title": "2.3 Learning Objectives",
+      "importance_rank": 3
+    },
+    {
+      "document": "file02.pdf",
+      "page_number": 8,
+      "section_title": "2.6 Keeping It Current",
+      "importance_rank": 4
+    },
+    {
+      "document": "file03.pdf",
+      "page_number": 1,
+      "section_title": "This business plan must be completed and approved by the ODL Steering Committee no",
+      "importance_rank": 5
+    },
+    {
+      "document": "file03.pdf",
+      "page_number": 6,
+      "section_title": "Milestones",
+      "importance_rank": 6
+    },
+    {
+      "document": "test_cities_guide.pdf",
+      "page_number": 0,
+      "section_title": "Introduction",
+      "importance_rank": 7
+    },
+    {
+      "document": "test_cities_guide.pdf",
+      "page_number": 2,
+      "section_title": "History",
+      "importance_rank": 8
+    },
+    {
+      "document": "test_cities_guide.pdf",
+      "page_number": 1,
+      "section_title": "Overview of the Region",
+      "importance_rank": 9
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "file02.pdf",
+      "refined_text": "Foundation Level Working Group. The Agile Extension team thanks the review team and the National Boards for their suggestions and input. At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aals...",
+      "page_number": 4
+    },
+    {
+      "document": "file03.pdf",
+      "refined_text": "3333 was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively with its members to promote universal access to materials and resources in more than 250 public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does not include elementary or secondary schools. However, the timeline and funding we are proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several years. TAL’s implementation plan was supported by 8...",
+      "page_number": 2
+    },
+    {
+      "document": "file02.pdf",
+      "refined_text": "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize, remember and recall terms and concepts stated in the Foundation Level syllabus. In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an extension exam. Version 2014 Page 7 of 12 May 31, 2014 © International Software Testing Qualifications Board ",
+      "page_number": 6
+    },
+    {
+      "document": "file02.pdf",
+      "refined_text": "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with access to relevant and current information, the ISTQB working groups have created links on the www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences in the industry. This information is not examinable under this syllabus. Version 2014 Page 9 of 12 May 31, 2014 © International Software Testing Qualifications Board ",
+      "page_number": 8
+    },
+    {
+      "document": "file03.pdf",
+      "refined_text": "later than September 30, 2003 Timeline: Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 th . Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore ( lmoore@accessola.com ), Executive Director, The Ontario Library Association, 100 Lombard ",
+      "page_number": 1
+    }
+  ]
+}
